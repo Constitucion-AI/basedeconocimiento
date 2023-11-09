@@ -75,3 +75,7 @@ Chile, a lo largo de su historia republicana, ha tenido diversas cartas fundamen
 
 ### FUNDACIÓN IGUALES - ANÁLISIS JURÍDICO PROPUESTA NUEVA CONSTITUCIÓN
 - Descripción: Análisis jurídico de la propuesta de nueva Constitución por parte de la Fundación Iguales.
+
+### MINUTA CONUNICACIONAL RN
+- Descripción: MINUTA COMUNICACIONAL DEUSO INTERNO PARA MILITANTESDE RENOVACIÓN NACIONAL
+- Fecha: 7 de noviembre de 2023
